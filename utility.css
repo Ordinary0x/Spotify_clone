@@ -1,0 +1,19 @@
+.boder{
+    
+    border-radius: 10px;
+    margin: 7px;
+    
+}
+.flex{
+    display: flex;
+}
+.align-item{
+    align-items: center;
+}
+.bg-color{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
