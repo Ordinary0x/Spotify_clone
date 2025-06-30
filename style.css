@@ -130,7 +130,7 @@ nav ul li .btn {
     flex-wrap: wrap;
     gap: 5px;
 
-    max-width: 25vw;
+/*     max-width: 25vw; */
 
 }
 
@@ -139,7 +139,9 @@ nav ul li .btn {
     padding: 10px;
     cursor: pointer;
 }
-
+.left .footer .footway{
+    text-decoration: none;
+}
 .header {
     display: none;
 }
